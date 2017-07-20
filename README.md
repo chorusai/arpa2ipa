@@ -1,7 +1,7 @@
 # arpa2ipa
-A converter from Arpabet to IPA (see https://en.wikipedia.org/wiki/Arpabet)
+A converter from Arpabet to IPA.
 
-This exolanation is taken from https://en.wikipedia.org/wiki/Arpabet
+This explanation is taken from https://en.wikipedia.org/wiki/Arpabet :
 
 In Arpabet, every phoneme is represented by one or two capital letters. Digits are used as stress indicators and are placed at the end of the stressed syllabic vowel. Punctuation marks are used like in the written language, to represent intonation changes at the end of clauses and sentences. The stress values are:
 
