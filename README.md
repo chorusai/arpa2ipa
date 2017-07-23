@@ -11,8 +11,8 @@ Value | Description
 1 | Primary stress
 2 | Seconary stress
 
-* Vowels
-  * Monophthongs
+**Vowels:**
+* Monophthongs
 
 Arpabet | IPA | Word examples
 ---:|:---|:---
@@ -51,8 +51,8 @@ AA R  |ɑr |large (L AA1 R JH); hard (HH AA1 R D)
 IH R or IY R  |ɪr |ear (IY1 R); near (N IH1 R)
 AW R |aʊr |This seems to be a rarely used r-controlled vowel. In some dialects flower (F L AW1 R; in other dialects F L AW1 ER0)
 
-* Consonants
-  * Stops
+**Consonants**
+* Stops
   
 Arpabet |IPA |Word Examples
 ---:|:---|:---
