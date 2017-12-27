@@ -1,0 +1,1 @@
+from arpa2ipa._arpa_to_ipa import *
