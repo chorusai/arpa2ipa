@@ -1,90 +1,91 @@
-off,AO1 F
-fall,F AO1 L
-frost,F R AO1 S T
-father,F AA1 DH ER
-cot,K AA1 T
-bee,B IY1
-she,SH IY1
-you,Y UW1
-new,N UW1
-food,F UW1 D
-red,R EH1 D
-men,M EH1 N
-big,B IH1 G
-win,W IH1 N
-should,SH UH1 D
-could,K UH1 D
-but,B AH1 T
-sun,S AH1 N
-sofa,S OW1 F AH0
-alone,AH0 L OW1 N
-discus,D IH1 S K AX0 S
-at,AE1 T
-fast,F AE1 S T
-say,S EY1
-eight,EY1 T
-my,M AY1
-why,W AY1
-ride,R AY1 D
-show,SH OW1
-coat,K OW1 T
-how,HH AW1
-now,N AW1
-boy,B OY1
-toy,T OY1
-her,HH ER0
-bird,B ER1 D
-hurt,HH ER1 T
-nurse,N ER1 S
-father,F AA1 DH AXR
-coward,K AW1 AXR D
-air,EH1 R
-where,W EH1 R
-hair,HH EH1 R
-cure,K Y UH1 R
-bureau,B Y UH1 R OW0
-detour,D IH0 T UH1 R
-more,M AO1 R
-bored,B AO1 R D
-chord,K AO1 R D
-large,L AA1 R JH
-hard,HH AA1 R D
-ear,IY1 R
-near,N IH1 R
-pay,P EY1
-buy,B AY1
-take,T EY1 K
-day,D EY1
-key,K IY1
-go,G OW1
-chair,CH EH1 R
-just,JH AH1 S T
-gym,JH IH1 M
-for,F AO1 R
-very,V EH1 R IY0
-thanks,TH AE1 NG K S
-Thursday,TH ER1 Z D EY2
-that,DH AE1 T
-the,DH AH0
-them,DH EH1 M
-say,S EY1
-zoo,Z UW1
-show,SH OW1
-measure,M EH1 ZH ER0
-pleasure,P L EH1 ZH ER
-house,HH AW1 S
-man,M AE1 N
-em,K IY1 P EM
-no,N OW1
-button,B AH1 T EN
-sing,S IH1 NG
-Washington,W AO1 SH ENG T EN
-late,L EY1 T
-fail,F EY1 L
-bottle,B AO1 DX EL
-run,R AH1 N
-wetter,W EH1 DX AXR
-wintergreen,W IY2 NX AXR G R IY1 N
-yes,Y EH1 S
-way,W EY1
-oh,Q AH1 Q OW
+word,arpa,ipa
+off,AO1 F,ɔ f
+fall,F AO1 L,f ɔ l
+frost,F R AO1 S T,f r ɔ s t
+father,F AA1 DH ER,f ɑ ð ɜr
+cot,K AA1 T,k ɑ t
+bee,B IY1,b i
+she,SH IY1,ʃ i
+you,Y UW1,j u
+new,N UW1,n u
+food,F UW1 D,f u d
+red,R EH1 D,r e d
+men,M EH1 N,m e n
+big,B IH1 G,b ɪ g
+win,W IH1 N,w ɪ n
+should,SH UH1 D,ʃ ʊ d
+could,K UH1 D,k ʊ d
+but,B AH1 T,b ʌ t
+sun,S AH1 N,s ʌ n
+sofa,S OW1 F AH0,s oʊ f ə
+alone,AH0 L OW1 N,ə l oʊ n
+discus,D IH1 S K AX0 S,d ɪ s k ə s
+at,AE1 T,æ t
+fast,F AE1 S T,f æ s t
+say,S EY1,s eɪ
+eight,EY1 T,eɪ t
+my,M AY1,m aɪ
+why,W AY1,w aɪ
+ride,R AY1 D,r aɪ d
+show,SH OW1,ʃ oʊ
+coat,K OW1 T,k oʊ t
+how,HH AW1,h aʊ
+now,N AW1,n aʊ
+boy,B OY1,b ɔɪ
+toy,T OY1,t ɔɪ
+her,HH ER0,h ɜr
+bird,B ER1 D,b ɜr d
+hurt,HH ER1 T,h ɜr t
+nurse,N ER1 S,n ɜr s
+father,F AA1 DH AXR,f ɑ ð ər
+coward,K AW1 AXR D,k aʊ ər d
+air,EH1 R,e r
+where,W EH1 R,w e r
+hair,HH EH1 R,h e r
+cure,K Y UH1 R,k j ʊ r
+bureau,B Y UH1 R OW0,b j ʊ r oʊ
+detour,D IH0 T UH1 R,d ɪ t ʊ r
+more,M AO1 R,m ɔ r
+bored,B AO1 R D,b ɔ r d
+chord,K AO1 R D,k ɔ r d
+large,L AA1 R JH,l ɑ r dʒ
+hard,HH AA1 R D,h ɑ r d
+ear,IY1 R,i r
+near,N IH1 R,n ɪ r
+pay,P EY1,p eɪ
+buy,B AY1,b aɪ
+take,T EY1 K,t eɪ k
+day,D EY1,d eɪ
+key,K IY1,k i
+go,G OW1,g oʊ
+chair,CH EH1 R,tʃ e r
+just,JH AH1 S T,dʒ ʌ s t
+gym,JH IH1 M,dʒ ɪ m
+for,F AO1 R,f ɔ r
+very,V EH1 R IY0,v e r i
+thanks,TH AE1 NG K S,θ æ ŋ k s
+Thursday,TH ER1 Z D EY2,θ ɜr z d eɪ
+that,DH AE1 T,ð æ t
+the,DH AH0,ð ə
+them,DH EH1 M,ð e m
+say,S EY1,s eɪ
+zoo,Z UW1,z u
+show,SH OW1,ʃ oʊ
+measure,M EH1 ZH ER0,m e ʒ ɜr
+pleasure,P L EH1 ZH ER,p l e ʒ ɜr
+house,HH AW1 S,h aʊ s
+man,M AE1 N,m æ n
+em,K IY1 P EM,k i p m̩
+no,N OW1,n oʊ
+button,B AH1 T EN,b ʌ t n̩
+sing,S IH1 NG,s ɪ ŋ
+Washington,W AO1 SH ENG T EN,w ɔ ʃ ŋ̍ t n̩
+late,L EY1 T,l eɪ t
+fail,F EY1 L,f eɪ l
+bottle,B AO1 DX EL,b ɔ ɾ ɫ̩
+run,R AH1 N,r ʌ n
+wetter,W EH1 DX AXR,w e ɾ ər
+wintergreen,W IY2 NX AXR G R IY1 N,w i ɾ̃ ər g r i n
+yes,Y EH1 S,j e s
+way,W EY1,w eɪ
+oh,Q AH1 Q OW,ʔ ʌ ʔ oʊ

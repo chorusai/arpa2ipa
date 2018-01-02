@@ -1,9 +1,8 @@
-import csv
+import logging
+import os
 import unittest
 
-import os
-
-import logging
+import pandas as pd
 
 from arpa2ipa import arpa_to_ipa
 
@@ -15,12 +14,14 @@ class TestArpaToIPA(unittest.TestCase):
 
         path = os.path.join(os.path.join(os.path.dirname(__file__), 'datasets'), 'dataset.csv')
 
-        with open(path) as f:
-            csv_reader = csv.reader(f)
-            for word, arpa_str in csv_reader:
-                logger.info('{} {}'.format(word, arpa_str))
-                ipa_str = arpa_to_ipa(arpa_str)
-                logger.info('--> {}'.format(ipa_str))
+        df = pd.read_csv(path, encoding='utf-8')
+
+
+        for _, (word, arpa_str, expected_ipa_str) in df.iterrows():
+            logger.info('{} {} {}'.format(word, arpa_str, expected_ipa_str))
+            ipa_str = arpa_to_ipa(arpa_str)
+            logger.info('--> {}'.format(ipa_str))
+            self.assertEqual(expected_ipa_str, ipa_str)
 
 
 
